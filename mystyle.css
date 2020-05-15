@@ -1,0 +1,12 @@
+.jumbotron {
+    background-image: url(watercolour-1325656_1920.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    font-weight: 400;
+}
+.jumbotron{
+    color: whitesmoke;
+}
+.display-4 {
+    font-weight: 600;
+}
